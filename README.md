@@ -1,5 +1,6 @@
 # Pythom-Smart-Calculator
 
+Extract mini.rar
 Run mini.py
 -->You can perform basic mathematical calculations even while typing in Layman language which are mentioned below:
       LCM,HCF,Addition,Subtraction,Division,Multiplication.
