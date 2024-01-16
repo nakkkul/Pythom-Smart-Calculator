@@ -1,4 +1,4 @@
-# Pythom-Smart-Calculator
+# Python-Smart-Calculator
 
 Extract mini.rar
 Run mini.py
